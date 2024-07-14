@@ -1,0 +1,4 @@
+Physics|Amir,Ishak|12|2024|250.0|5
+English|Giash|18|2024|200.0|4
+Biology|Abul Hasan|11|2024|200.0|4
+Chemistry|Kobir|19|2024|200.0|6
